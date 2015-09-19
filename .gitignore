@@ -8,5 +8,11 @@
 *.war
 *.ear
 
+#Temp files
+~*
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+Hardware/eDarts (PCB - Forward Design Changes Report).txt
+Hardware/eDarts (PCB - PLOT REPORT).txt
+Hardware/eDarts (PCB - Schematic and PCB Check Report).txt
